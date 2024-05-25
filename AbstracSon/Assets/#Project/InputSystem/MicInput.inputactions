@@ -1,0 +1,34 @@
+{
+    "name": "MicInput",
+    "maps": [
+        {
+            "name": "Mic",
+            "id": "adc5dfd3-ae7b-4a5a-a419-606ac7a695c2",
+            "actions": [
+                {
+                    "name": "ShowHide",
+                    "type": "Button",
+                    "id": "c4c52593-45c0-456c-b1c9-60e1ffac160e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "71bee40f-889a-4f75-a843-335d6cd2d95d",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ShowHide",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
